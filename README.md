@@ -11,7 +11,7 @@ INSTRUCTIONS:
 2. Download requirements.txt.
 3. Ensure Jupyter notebook, python3, and pandas is installed.
 4. Open and run attacks.ipynb. 
-5. Refer to my Tableau dashboard for visualization.
+5. Refer to my Tableau dashboard for visualization: https://public.tableau.com/app/profile/taylor.kuo/viz/OpenAIandCybersecurity/Sheet1#1
 
 FEATURES:
 1. Read in two data files.
