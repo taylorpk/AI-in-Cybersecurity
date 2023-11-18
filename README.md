@@ -1,4 +1,5 @@
-# Artificial Intelligence and Cybersecurity
+<h1 align="center">Artificial Intelligence and Cybersecurity</h1>
+
 <p align="center">
    <img width="600" height="450" src="https://github.com/taylorpk/AI-in-Cybersecurity/assets/112709093/97e0aabc-f0cb-4ebd-aca1-fafe2b5cb8aa/900/600">
 </p>
