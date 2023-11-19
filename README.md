@@ -1,8 +1,8 @@
 <h1 align="center">Artificial Intelligence and Cybersecurity</h1>
 
-<p align="center">
-   <img src="https://github.com/taylorpk/AI-in-Cybersecurity/assets/112709093/97e0aabc-f0cb-4ebd-aca1-fafe2b5cb8aa/900/600">
-</p>
+
+![image](https://github.com/taylorpk/AI-in-Cybersecurity/assets/112709093/36372bd5-a716-4610-93f2-eafac1eb09c7)
+
 
 Artificial Intelligence has grown in popularity very quickly. There is no doubt AI has changed the cybersecurity landscape. 
 <p>
