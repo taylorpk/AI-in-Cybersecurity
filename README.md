@@ -4,15 +4,19 @@
    <img width="600" height="450" src="https://github.com/taylorpk/AI-in-Cybersecurity/assets/112709093/97e0aabc-f0cb-4ebd-aca1-fafe2b5cb8aa/900/600">
 </p>
 
-Artificial Intelligence has grown in popularity very quickly. This project aims to show the impact artificial intelligence is having in the cybersecurity world. This project has two csv files containing different types of cyberattacks, along with the total amount for 2016 to October 2023. This project will also be utilizing Jupyter Notebooks and Tableau.
+Artificial Intelligence has grown in popularity very quickly. There is no doubt AI has changed the cybersecurity landscape. 
+<p>
+AI is being used for hacking, as it helps to write more convincing phishing emails and smarter malware. However, most cybersecurity companies could not have advanced this far without AI. For example, Crowdstrike created its own AI-powered platform named "Falcon", which detects threats faster than humans. Tessian uses AI purely for detecting phishing emails. Without AI, this would not be possible. This project aims to show the impact artificial intelligence is having in the cybersecurity world, both positive and negative.
+</p>
+
+ This project contains two csv files, a Jupyter Notebook, and Tableau.
 ### INSTRUCTIONS:
 1. Clone this repo to your machine.
 2. Navigate into the cloned repo.
-3. Create and activate the virtual environment. For instructions on how to create and activate a virtual enviroment, click [here](https://docs.python.org/3/tutorial/venv.html).
+3. Create and activate the virtual environment. For instructions on how to create and activate a virtual environment, click [here](https://docs.python.org/3/tutorial/venv.html).
 4. Download requirements.txt.
 5. Ensure Jupyter notebook, python3, and pandas is installed.
-6. Open and run attack_data.ipynb.
-7. Refer to my [Tableau](https://public.tableau.com/app/profile/taylor.kuo/viz/AI-In-Cybersecurity/affecting_cybersecurity#guest=n) dashboard for visualization.
+6. Refer to my [Tableau](https://public.tableau.com/app/profile/taylor.kuo/viz/AI-In-Cybersecurity/affecting_cybersecurity#guest=n) dashboard for visualization.
 
 ### FEATURES:
 1. Read in two data files.
@@ -25,4 +29,4 @@ Artificial Intelligence has grown in popularity very quickly. This project aims 
  - [OpenAI.com](https://openai.com/)
  - [Crowdstrike.com](https://www.crowdstrike.com/)
  - [Tessian.com](https://www.tessian.com/)
-
+ - [ChatGPT Statistics](https://www.demandsage.com/chatgpt-statistics/)
