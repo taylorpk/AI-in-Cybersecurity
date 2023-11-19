@@ -16,7 +16,8 @@ AI is being used for hacking, as it helps to write more convincing phishing emai
 3. Create and activate the virtual environment. For instructions on how to create and activate a virtual environment, click [here](https://docs.python.org/3/library/venv.html).
 4. Download requirements.txt.
 5. Ensure Jupyter notebook, python3, and pandas is installed.
-6. Refer to my [Tableau](https://public.tableau.com/app/profile/taylor.kuo/viz/AI-In-Cybersecurity/affecting_cybersecurity#guest=n) dashboard for visualization.
+6. Open and run attack_data.ipynb. This will create a new csv named "merged_attack.csv".
+7. Refer to my [Tableau](https://public.tableau.com/app/profile/taylor.kuo/viz/AI-In-Cybersecurity/affecting_cybersecurity#guest=n) dashboard for visualization.
 
 ### FEATURES:
 1. Read in two data files.
