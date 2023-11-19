@@ -1,7 +1,7 @@
 <h1 align="center">Artificial Intelligence and Cybersecurity</h1>
 
 <p align="center">
-   <img width="600" height="450" src="https://github.com/taylorpk/AI-in-Cybersecurity/assets/112709093/97e0aabc-f0cb-4ebd-aca1-fafe2b5cb8aa/900/600">
+   <img src="https://github.com/taylorpk/AI-in-Cybersecurity/assets/112709093/97e0aabc-f0cb-4ebd-aca1-fafe2b5cb8aa/900/600">
 </p>
 
 Artificial Intelligence has grown in popularity very quickly. There is no doubt AI has changed the cybersecurity landscape. 
@@ -13,7 +13,7 @@ AI is being used for hacking, as it helps to write more convincing phishing emai
 ### INSTRUCTIONS:
 1. Clone this repo to your machine.
 2. Navigate into the cloned repo.
-3. Create and activate the virtual environment. For instructions on how to create and activate a virtual environment, click [here](https://docs.python.org/3/tutorial/venv.html).
+3. Create and activate the virtual environment. For instructions on how to create and activate a virtual environment, click [here](https://docs.python.org/3/library/venv.html).
 4. Download requirements.txt.
 5. Ensure Jupyter notebook, python3, and pandas is installed.
 6. Refer to my [Tableau](https://public.tableau.com/app/profile/taylor.kuo/viz/AI-In-Cybersecurity/affecting_cybersecurity#guest=n) dashboard for visualization.
